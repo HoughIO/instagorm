@@ -1,0 +1,16 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.gorm {
+  font-family: 'Dancing Script', cursive;
+}
+
+.gorm-img {
+  border: 1px solid #aaa;
+  padding: 10px;
+}
